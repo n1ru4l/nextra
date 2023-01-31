@@ -1,5 +1,18 @@
 # nextra-theme-docs
 
+## 2.2.15
+
+### Patch Changes
+
+- 51ec00f: fix white appearing of white square while sidebar was toggled
+- 7f697e9: prefer `asPath` over `route` in `useNextSeoProps` docs, allow `void` as return type of `useNextSeoProps`
+- da585a8: force theme to `light` if `darkMode: false` was set
+- 673a125: fix squeezed sidebar when he was hidden -> navigated to page without sidebar -> comeback to page with sidebar
+- 26c7e20: fix: move intersection observe and slugs into ActiveAnchorProvider
+- Updated dependencies [d5aa17c]
+- Updated dependencies [b3219c3]
+  - nextra@2.2.15
+
 ## 2.2.14
 
 ### Patch Changes

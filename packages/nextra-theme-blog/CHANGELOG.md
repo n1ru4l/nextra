@@ -1,5 +1,14 @@
 # nextra-theme-blog
 
+## 2.2.15
+
+### Patch Changes
+
+- da585a8: force theme to `light` if `darkMode: false` was set
+- Updated dependencies [d5aa17c]
+- Updated dependencies [b3219c3]
+  - nextra@2.2.15
+
 ## 2.2.14
 
 ### Patch Changes
